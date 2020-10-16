@@ -54,7 +54,7 @@ namespace PracticeC.Controllers
         /// <example>api/J3/MobileMessage/bob  -> 7 seconds </example>
         /// 
         /// 
-        /// 
+        /// Attemp to solve a J3 was unsuccessful.
         ///  
         /// source:  https://cemc.uwaterloo.ca/contests/computing/2006/stage1/juniorEn.pdf
         /// </summary>
